@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">✈️ Multimodal RAG System for Airline Operations Intelligence</h1>
+  <h1 align="center"> RAG System for Airline Operations Intelligence</h1>
   <p align="center">
     <strong>Enterprise Edition v2.0</strong>
     <br />
